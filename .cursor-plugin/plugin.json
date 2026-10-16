@@ -1,0 +1,11 @@
+{
+  "name": "recruiting-desk-in-a-box",
+  "displayName": "Recruiting Desk in a Box",
+  "version": "0.1.0",
+  "description": "A recruiter's back office as skills: cut and score candidates on a 9-point card, write short honest outreach, run day-5/day-10 follow-ups, and classify replies.",
+  "author": { "name": "Thomas Licari", "organization": "Sunshine & Hawk Associates", "url": "https://sunshineandhawk.com" },
+  "homepage": "https://sunshineandhawk.com",
+  "license": "MIT",
+  "keywords": ["recruiting", "sourcing", "outreach", "talent-acquisition", "executive-search"],
+  "skills": "./skills/"
+}
